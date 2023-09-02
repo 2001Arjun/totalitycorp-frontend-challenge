@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# Features
+This E-Commerce project includes the following features:
+
+Product Listing: Displays a list of products with details like name, price, and an "Add to Cart" button.
+
+Add to Cart: Allows users to add products to their shopping cart, which keeps track of the selected items.
+
+Shopping Cart: Displays the items added to the cart along with their quantities and total cost.
+
+Search Product: Provides a search bar that allows users to search for products by name, category, or other criteria.
+
+Product Details: Users can click on a product to view more details about it, including a larger image and description.
+
+Checkout: Simulates a checkout process where users can review their cart and proceed to payment.
+
+Responsive Design: The application is responsive and adapts to different screen sizes.# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
